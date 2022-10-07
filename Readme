@@ -1,0 +1,7 @@
+I created this project (gold price prediction) for CodeClause Data science intern on linkdin
+I used gold orice dataset from kaggle 
+I cleaned the data from missing or duplicated values
+Then I visualized some features to see relationships between them and used heatmap to show correlation
+I split the data into training and test sets
+I applied Random forest and xgboost algorithm to see the error and get the predicted values vs the actual
+I used google colab using python language. 
